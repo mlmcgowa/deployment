@@ -1,0 +1,78 @@
+.main {
+
+  background-image: url("http://curlyincollege.com/wp-content/uploads/2015/12/wish_list_graphic.jpg");
+  background-repeat: no-repeat;
+  background-position: top;
+  display: block;
+
+}
+
+.add{
+
+  border: solid 2px blue;
+  font-size: 20px;
+  border-radius: 10px;
+}
+
+.reg{
+
+  width: 500px;
+  height: 500px;
+  display: inline-block;
+  border: solid 2px red;
+  text-align: center;
+  margin-top: 250px;
+
+}
+
+.reg h3{
+
+  display: inline-block;
+
+}
+
+.login_section{
+
+  width: 500px;
+  height: 500px;
+  border: solid 2px blue;
+  position: absolute;
+  margin-top: 250px;
+  margin-left: 50px;
+  display: inline-block;
+  text-align: center;
+
+}
+
+.login_section h3{
+
+  display: inline-block;
+
+}
+
+.error {
+
+  text-align: center;
+  background-color: red;
+  font-size: 20px;
+
+}
+
+.success {
+  background-color: green;
+  text-align: center;
+
+}
+
+.formItem{
+
+  text-align: center;
+
+}
+
+.addedWish{
+
+  color: green;
+  font-size: 20px;
+
+}
